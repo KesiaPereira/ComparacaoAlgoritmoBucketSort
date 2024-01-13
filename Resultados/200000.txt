@@ -1,0 +1,19 @@
+***** Lista de 200000 elementos *****
+
+BUBBLE SORT
+
+
+SELECTION SORT
+
+
+INSERTION SORT
+
+
+MERGE SORT
+
+
+QUICK SORT
+
+
+COUNTING SORT
+
