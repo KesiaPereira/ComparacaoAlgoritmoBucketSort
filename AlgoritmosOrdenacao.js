@@ -169,9 +169,9 @@ class AlgoritmosOrdenacao {
             buckets[bucketIndex].push(arr[j]);
         }
 
-        // Ordenar cada balde individualmente (mudar o algoritmo de ordenação por aqui)
+        // Ordenar cada balde usando a função de ordenação fornecida
         for (var k = 0; k < bucketCount; k++) {
-            buckets[k] = AlgoritmosOrdenacao.sortingAlgorithm(buckets[k]);
+            buckets[k] = sortingAlgorithm(buckets[k]);
         }
 
         // Concatenar os baldes ordenados para obter o array final ordenado
