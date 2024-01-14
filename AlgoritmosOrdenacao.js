@@ -145,7 +145,7 @@ class AlgoritmosOrdenacao {
         return sortedArray;
     }
 
-    static bucketSort(arr, bucketSize = 5) {
+    static bucketSort(arr, sortingAlgorithm, bucketSize = 5) {
         if (arr.length === 0) {
             return arr;
         }
@@ -171,7 +171,7 @@ class AlgoritmosOrdenacao {
 
         // Ordenar cada balde individualmente (mudar o algoritmo de ordenação por aqui)
         for (var k = 0; k < bucketCount; k++) {
-            buckets[k] = AlgoritmosOrdenacao.bubbleSort(buckets[k]);
+            buckets[k] = AlgoritmosOrdenacao.sortingAlgorithm(buckets[k]);
         }
 
         // Concatenar os baldes ordenados para obter o array final ordenado
