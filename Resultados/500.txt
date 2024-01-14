@@ -1,19 +1,40 @@
 ***** Lista de 500 elementos *****
 
-BUBBLE SORT
+TENTATIVA 1
+--> Ordenada em 00:00:00.001 usando o Bucket Sort + Bubble sort   
 
+--> Ordenada em 00:00:00.001 usando o Bucket Sort + Selection sort
 
-SELECTION SORT
+--> Ordenada em 00:00:00.000 usando o Bucket Sort + Insertion sort
 
+--> Ordenada em 00:00:00.002 usando o Bucket Sort + Merge sort
 
-INSERTION SORT
+--> Ordenada em 00:00:00.001 usando o Bucket Sort + Quick sort
 
+--> Ordenada em 00:00:00.000 usando o Bucket Sort + Counting sort
 
-MERGE SORT
+TENTATIVA 2
+--> Ordenada em 00:00:00.001 usando o Bucket Sort + Bubble sort   
 
+--> Ordenada em 00:00:00.000 usando o Bucket Sort + Selection sort
 
-QUICK SORT
+--> Ordenada em 00:00:00.001 usando o Bucket Sort + Insertion sort
 
+--> Ordenada em 00:00:00.002 usando o Bucket Sort + Merge sort    
 
-COUNTING SORT
+--> Ordenada em 00:00:00.001 usando o Bucket Sort + Quick sort
 
+--> Ordenada em 00:00:00.001 usando o Bucket Sort + Counting sort
+
+TENTATIVA 3
+--> Ordenada em 00:00:00.002 usando o Bucket Sort + Bubble sort
+
+--> Ordenada em 00:00:00.001 usando o Bucket Sort + Selection sort
+
+--> Ordenada em 00:00:00.001 usando o Bucket Sort + Insertion sort
+
+--> Ordenada em 00:00:00.002 usando o Bucket Sort + Merge sort
+
+--> Ordenada em 00:00:00.002 usando o Bucket Sort + Quick sort
+
+--> Ordenada em 00:00:00.001 usando o Bucket Sort + Counting sort

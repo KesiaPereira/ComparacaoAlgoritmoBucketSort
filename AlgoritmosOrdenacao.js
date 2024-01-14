@@ -151,8 +151,17 @@ class AlgoritmosOrdenacao {
         }
 
         // Encontrar o valor mínimo e máximo no array
-        var minValue = Math.min(...arr);
-        var maxValue = Math.max(...arr);
+        var minValue = arr[0];
+        var maxValue = arr[0];
+            
+        for (var i = 1; i < arr.length; i++) {
+            if (arr[i] < minValue) {
+                minValue = arr[i];
+            } else if (arr[i] > maxValue) {
+                maxValue = arr[i];
+            }
+        }
+
 
         // Calcular o número de baldes necessários
         var bucketCount = Math.floor((maxValue - minValue) / bucketSize) + 1;

@@ -8,7 +8,7 @@ function main() {
     const cronometro = new Cronometro();
 
     // Tamanhos das listas: 100, 500, 1000, 30000, 80000, 100000, 150000, 200000
-    const tamanhoLista = 100; // Altere conforme necessário
+    const tamanhoLista = 150000; // Altere conforme necessário
     const lista = PreencherAleatorio.criarLista(tamanhoLista);
 
     console.log(`\n***** Lista de ${lista.length} elementos *****`);
