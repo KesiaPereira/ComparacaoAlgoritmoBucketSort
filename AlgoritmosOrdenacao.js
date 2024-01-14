@@ -162,7 +162,6 @@ class AlgoritmosOrdenacao {
             }
         }
 
-
         // Calcular o número de baldes necessários
         var bucketCount = Math.floor((maxValue - minValue) / bucketSize) + 1;
 

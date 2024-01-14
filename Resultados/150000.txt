@@ -1,9 +1,40 @@
 ***** Lista de 150000 elementos *****
 
 TENTATIVA 1
+--> Ordenada em 00:00:02.691 usando o Bucket Sort + Bubble sort
 
+--> Ordenada em 00:00:01.250 usando o Bucket Sort + Selection sort
+
+--> Ordenada em 00:00:00.576 usando o Bucket Sort + Insertion sort
+
+--> Ordenada em 00:00:00.111 usando o Bucket Sort + Merge sort
+
+--> Ordenada em 00:00:03.845 usando o Bucket Sort + Quick sort
+
+--> Ordenada em 00:00:00.019 usando o Bucket Sort + Counting sort
 
 TENTATIVA 2
+--> Ordenada em 00:00:02.627 usando o Bucket Sort + Bubble sort
 
+--> Ordenada em 00:00:01.216 usando o Bucket Sort + Selection sort
+
+--> Ordenada em 00:00:00.556 usando o Bucket Sort + Insertion sort
+
+--> Ordenada em 00:00:00.122 usando o Bucket Sort + Merge sort
+
+--> Ordenada em 00:00:03.854 usando o Bucket Sort + Quick sort
+
+--> Ordenada em 00:00:00.019 usando o Bucket Sort + Counting sort
 
 TENTATIVA 3
+--> Ordenada em 00:00:02.583 usando o Bucket Sort + Bubble sort
+
+--> Ordenada em 00:00:01.295 usando o Bucket Sort + Selection sort
+
+--> Ordenada em 00:00:00.737 usando o Bucket Sort + Insertion sort
+
+--> Ordenada em 00:00:00.118 usando o Bucket Sort + Merge sort
+
+--> Ordenada em 00:00:04.049 usando o Bucket Sort + Quick sort
+
+--> Ordenada em 00:00:00.020 usando o Bucket Sort + Counting sort
